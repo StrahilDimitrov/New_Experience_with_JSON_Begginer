@@ -1,0 +1,44 @@
+[
+    {
+        "productName": "Asus",
+        "price": "1 233лв.",
+        "quantity": "10",
+        "image": "/image/comp1.jpg"
+    },
+    {
+        "productName": "ACER",
+        "price": "1 733лв.",
+        "quantity": "2",
+        "image": "/image/comp2.jpg"
+    },
+    {
+        "productName": "GAMER",
+        "price": "933лв.",
+        "quantity": "5",
+        "image": "/image/comp3.jpg"
+    },
+    {
+        "productName": "Apple",
+        "price": "1 733лв.",
+        "quantity": "2",
+        "image": "/image/comp4.jpg"
+    },
+    {
+        "productName": "ACER",
+        "price": "1 733лв.",
+        "quantity": "2",
+        "image": "/image/comp5.jpg"
+    },
+    {
+        "productName": "ASUS",
+        "price": "1 733лв.",
+        "quantity": "2",
+        "image": "/image/comp6.jpg"
+    },
+    {
+        "productName": "ACER",
+        "price": "1 733лв.",
+        "quantity": "2",
+        "image": "/image/comp7.jpg"
+    }
+]
